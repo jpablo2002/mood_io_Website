@@ -1,0 +1,142 @@
+.v8_44 {
+    width: 916px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 300px;
+    left: 262px;
+    font-family: Poppins;
+    font-weight: Medium;
+    font-size: 89px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v8_45 {
+    position: absolute;
+    width: 1108px;
+    height: 88px;
+    left: 166px;
+    top: 440px;
+  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 30;
+    font-size: 30.904px;
+    line-height: 46px;
+    text-align: center;
+  
+    color: #000000;
+  }
+  
+  .v8_46 {
+    position: absolute;
+    width: 220px;
+    height: 88px;
+    left: 600px;
+    top: 570px;
+  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 30;
+    font-size: 30.904px;
+    line-height: 46px;
+    text-align: center;
+  
+    color: #ffffff;
+  }
+  
+  .v8_47 {
+    position: absolute;
+    width: 600px;
+    height: 88px;
+    left: 400px;
+    top: 80px;
+  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 30;
+    font-size: 30.904px;
+    line-height: 46px;
+    text-align: center;
+  
+    color: #000000;
+  }
+  
+  .v8_48 {
+    position: absolute;
+    width: 600px;
+    height: 88px;
+    left: 400px;
+    top: 200px;
+  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 30;
+    font-size: 30.904px;
+    line-height: 46px;
+    text-align: center;
+  
+    color: #000000;
+  }
+  
+  .v8_49 {
+    position: absolute;
+    width: 600px;
+    height: 88px;
+    left: 400px;
+    top: 100px;
+  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 30;
+    font-size: 30.904px;
+    line-height: 46px;
+    text-align: center;
+  
+    color: #000000;
+  }
+
+  .picture_pos {
+    position: absolute;
+    top: 140px;
+    left: 490px;
+  }
+  
+  .relax_pos {
+    position: absolute;
+    top: 238px;
+    left: 509px;
+  }
+  
+  .button1 {
+    position: absolute;
+    width: 220px;
+    height: 88px;
+    left: 490px;
+    top: 550px;
+  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 30;
+    font-size: 30.904px;
+    line-height: 46px;
+    text-align: center;
+  
+    color: #ffffff;
+  }
+  
+  .button2 {
+    position: absolute;
+    width: 220px;
+    height: 88px;
+    left: 725px;
+    top: 550px;
+  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 30;
+    font-size: 30.904px;
+    line-height: 46px;
+    text-align: center;
+  
+    color: #ffffff;
+  }
